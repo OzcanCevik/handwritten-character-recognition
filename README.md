@@ -45,7 +45,7 @@ handwritten-character-recognition/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/handwritten-character-recognition.git
+   git clone https://github.com/OzcanCevik/handwritten-character-recognition.git
    cd handwritten-character-recognition
    ```
 
