@@ -113,4 +113,8 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 ## Acknowledgments
 
 Special thanks to all contributors and the open-source community for their support.
+
+[View the live site](https://ozcancevik.github.io/handwritten-character-recognition/)
+
 ```
+
